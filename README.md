@@ -1,9 +1,9 @@
-# Tanushree 
+# Tanushree
 ## 👩‍💻 About Me
 
 Hey there! I'm **Tanushree**, a Computer Science undergraduate with a passion for building things — from low-level systems code to full-stack web applications.
 
-- 🎓 Pursuing a **B.E in Computer Science**
+- 🎓 Pursuing a **B.Sc. in Computer Science**
 - 💡 Skilled in **systems programming, backend logic, and full-stack development**
 - 🌱 Always learning, always building
 
@@ -41,7 +41,7 @@ Hey there! I'm **Tanushree**, a Computer Science undergraduate with a passion fo
 
 ![Tanushree's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ta4nu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ta4nu&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=ta4nu&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ta4nu&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
 
