@@ -3,7 +3,7 @@
 
 Hey there! I'm **Tanushree**, a Computer Science undergraduate with a passion for building things — from low-level systems code to full-stack web applications.
 
-- 🎓 Pursuing a **B.Sc. in Computer Science**
+- 🎓 Pursuing a **BE in Computer Science**
 - 💡 Skilled in **systems programming, backend logic, and full-stack development**
 - 🌱 Always learning, always building
 
@@ -35,30 +35,6 @@ Hey there! I'm **Tanushree**, a Computer Science undergraduate with a passion fo
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Tanushree's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ta4nu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=ta4nu&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ta4nu&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ta4nu&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=6)
-
-</div>
-
----
-
 ## 🌐 Connect with Me
 
 <div align="center">
@@ -71,8 +47,6 @@ Hey there! I'm **Tanushree**, a Computer Science undergraduate with a passion fo
 ---
 
 <div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=ta4nu&icon=5&color=6)](https://visitcount.itsvg.in)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
