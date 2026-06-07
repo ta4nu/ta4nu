@@ -3,10 +3,9 @@
 
 Hey there! I'm **Tanushree**, a Computer Science undergraduate with a passion for building things — from low-level systems code to full-stack web applications.
 
-- 🎓 Pursuing a **B.Sc. in Computer Science**
+- 🎓 Pursuing a **B.E in Computer Science**
 - 💡 Skilled in **systems programming, backend logic, and full-stack development**
-- 🌱 Always learning, always building
-- ⚡ Fun fact: I debug in my sleep (probably)
+- 🌱 Always learning, always building.
 
 ---
 
@@ -40,11 +39,7 @@ Hey there! I'm **Tanushree**, a Computer Science undergraduate with a passion fo
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ta4nu&theme=tokyonight&hide_border=true&show_icons=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=ta4nu&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ta4nu&theme=tokyonight&hide_border=true&layout=compact)
 
 </div>
 
